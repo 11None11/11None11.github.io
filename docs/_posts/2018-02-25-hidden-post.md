@@ -1,5 +1,5 @@
 ---
-title: "Hidden Post"
+title: "Thika Hidden Post"
 hidden: true
 last_modified_at:
 ---
